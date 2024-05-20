@@ -1,0 +1,65 @@
+[
+    {
+        "ID_CLIENTE": 1,
+        "NOME": "Diego Costa Silva",
+        "NOME_EMPRESA": "Disney",
+        "EMAIL_CORPORATIVO": "diego@disney.com",
+        "TELEFONE": "1198282720",
+        "PAIS": "Brasil",
+        "ACEITAR_POLITICA": "S"
+    },
+    {
+        "ID_CLIENTE": 2,
+        "NOME": "Ana Oliveira",
+        "NOME_EMPRESA": "TechSolutions",
+        "EMAIL_CORPORATIVO": "ana@techsolutions.com",
+        "TELEFONE": "11987654321",
+        "PAIS": "Brasil",
+        "ACEITAR_POLITICA": "S"
+    },
+    {
+        "ID_CLIENTE": 3,
+        "NOME": "Michael Smith",
+        "NOME_EMPRESA": "GlobalEnterprises",
+        "EMAIL_CORPORATIVO": "michael@globent.com",
+        "TELEFONE": "12025551234",
+        "PAIS": "Estados Unidos",
+        "ACEITAR_POLITICA": "S"
+    },
+    {
+        "ID_CLIENTE": 4,
+        "NOME": "Sofia Garcia",
+        "NOME_EMPRESA": "Brightdeas",
+        "EMAIL_CORPORATIVO": "sofia@brightideas.co.uk",
+        "TELEFONE": "447700123456",
+        "PAIS": "Reino Unido",
+        "ACEITAR_POLITICA": "S"
+    },
+    {
+        "ID_CLIENTE": 5,
+        "NOME": "Ana Silva",
+        "NOME_EMPRESA": "Tech Solutions",
+        "EMAIL_CORPORATIVO": "ana.silva@techsolutions.com",
+        "TELEFONE": "1112345678",
+        "PAIS": "Brasil",
+        "ACEITAR_POLITICA": "S"
+    },
+    {
+        "ID_CLIENTE": 10,
+        "NOME": "Wei Zhang",
+        "NOME_EMPRESA": "DragonTech",
+        "EMAIL_CORPORATIVO": "wei.zhang@dragontech.cn",
+        "TELEFONE": "1012345678",
+        "PAIS": "China",
+        "ACEITAR_POLITICA": "S"
+    },
+    {
+        "ID_CLIENTE": 12,
+        "NOME": "Carlos Ramirez",
+        "NOME_EMPRESA": "Ramirez Solutions",
+        "EMAIL_CORPORATIVO": "carlos.ramirez@ramirezsolutions.mx",
+        "TELEFONE": "525512345678",
+        "PAIS": "México",
+        "ACEITAR_POLITICA": "S"
+    }
+]
