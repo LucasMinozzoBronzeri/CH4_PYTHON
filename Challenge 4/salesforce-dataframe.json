@@ -3,7 +3,7 @@
         "ID_CLIENTE": 1,
         "NOME": "Diego Costa Silva",
         "NOME_EMPRESA": "Disney",
-        "EMAIL_CORPORATIVO": "diego@disney.com",
+        "EMAIL_CORPORATIVO": "novo_email@disney.com",
         "TELEFONE": "1198282720",
         "PAIS": "Brasil",
         "ACEITAR_POLITICA": "S"
